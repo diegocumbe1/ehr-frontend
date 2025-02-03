@@ -39,3 +39,16 @@ yarn start
 Email: admin@example.com
 Password: Password123@
 ```
+## 📖 **API Documentation**
+The backend includes an API documentation page powered by **Swagger**.  
+Once the backend is running, visit:
+
+👉 **[http://localhost:3001/api/docs](http://localhost:3001/api/docs)**
+
+You can test API endpoints directly from this interface.
+
+## 📖 **Additional Resources**
+- [Next.js Documentation](https://nextjs.org/docs)
+- [React Hook Form](https://react-hook-form.com/)
+- [Material UI](https://mui.com/)
+
